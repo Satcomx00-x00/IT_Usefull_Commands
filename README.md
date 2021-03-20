@@ -7,4 +7,8 @@ sfc /scannow		//Repair most of errors
 ```cmd
 chkdsk C: /f		// Disk Analys & Repair
 ```
----
+## Linux Side Commands
+##### Repair Commands
+```bash
+
+```
